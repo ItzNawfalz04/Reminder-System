@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4127809e-5c68-4a81-8d3a-890c4480fe1f" width="600" alt="Felda Travel Reminder System Logo">
-  <h1>Felda Travel Reminder System</h1>
+  <h1>Reminder System</h1>
   <p>
-    A reminder system to notify users about upcoming projects, license renewals, certificate renewals, tasks, and more.
+    A reminder system to notify users about upcoming projects, tasks, and more.
   </p>
   <p>
     <a href="https://github.com/ItzNawfalz04/Felda-Travel-Reminder-System/releases">
@@ -16,7 +16,7 @@
 </div>
 
 ## Introduction
-Will be written soon...
+A small project that I did during my Internship at [Felda Travel Sdn. Bhd.](https://feldatravel.com.my/) to learn more about C#, WinForms, and SQLite. It is a reminder system to notify users about upcoming projects, tasks, and more through push notifications.
 
 ## Features ✨️
 - **Manage Reminders:** Add, edit, and delete reminders.
