@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4127809e-5c68-4a81-8d3a-890c4480fe1f" width="600" alt="Felda Travel Reminder System Logo">
+  <img width="3084" height="1735" alt="Reminder System Thumbnails" src="https://github.com/user-attachments/assets/db75d52b-d5b9-484e-9ac5-56cfd6caa60e" />
+
+
   <h1>Reminder System</h1>
   <p>
     A reminder system to notify users about upcoming projects, tasks, and more.
